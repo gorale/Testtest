@@ -6,4 +6,5 @@ public class String {
     static int i = 8;
     java.lang.String str="sdf";
     int anInt=12345;
+    int as=2345;
 }
