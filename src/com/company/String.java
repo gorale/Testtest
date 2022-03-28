@@ -7,4 +7,5 @@ public class String {
     java.lang.String str="sdf";
     int anInt=12345;
     int as=2345;
+    java.lang.String string="fghj";
 }
