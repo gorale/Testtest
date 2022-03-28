@@ -1,5 +1,5 @@
 package com.company;
 
 public class String {
-    int a;
+    java.lang.String a = "a";
 }
